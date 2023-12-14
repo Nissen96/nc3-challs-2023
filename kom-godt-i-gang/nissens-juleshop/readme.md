@@ -2,6 +2,6 @@
 
 Nissen har lige åbnet sin årlige juleshop, har han mon noget spændende at købe?
 
-*Opgaven er tilgængelig via Haaukins:*
+Forbind til opgaven med `nc juleshop.nc3 2674`.
 
-[https://ncctf.haaukins.dk](https://ncctf.haaukins.dk)
+*Note: Opgaven var tilgængelig via Haaukins under CTFen*
