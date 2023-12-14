@@ -53,7 +53,7 @@ print(xor(pt, ct).hex())
 ```
 
 Kører vi det, får vi output `a7a7a7a7`, dvs. vi kan som forventet se,
-at alle de fire første bytes er krypteret med samme byte, nemlig `a7`.
+at alle de fire første bytes er krypteret med samme key, nemlig `a7`.
 
 Udregner vi XOR mellem alle bytes i ciphertext og `a7` får vi flaget:
 
