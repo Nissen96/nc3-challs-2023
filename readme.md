@@ -24,8 +24,8 @@ Beskrivelser og source kan ses på alle challenges, writeups kommer løbende op 
 * [ ] [Nisseware: Dropper](malware/nisseware-dropper/)
 * [ ] [Nisseware: Encryption](malware/nisseware-encryption/)
 * [ ] [Nisseware: Ransom](malware/nisseware-ransom/)
-* [ ] [Nisseware: OSINT](malware/nisseware-osint/)
-* [ ] [Nisseware: Infrastructure](malware/nisseware-infrastructure/)
+* [x] [Nisseware: OSINT](malware/nisseware-osint/)
+* [x] [Nisseware: Infrastructure](malware/nisseware-infrastructure/)
 
 ### Reversing
 
