@@ -23,7 +23,7 @@ Beskrivelser og source kan ses på alle challenges, writeups kommer løbende op 
 * [ ] [Nisseware: Exfiltration](malware/nisseware-exfiltration/)
 * [ ] [Nisseware: Dropper](malware/nisseware-dropper/)
 * [ ] [Nisseware: Encryption](malware/nisseware-encryption/)
-* [ ] [Nisseware: Ransom](malware/nisseware-ransom/)
+* [x] [Nisseware: Ransom](malware/nisseware-ransom/)
 * [x] [Nisseware: OSINT](malware/nisseware-osint/)
 * [x] [Nisseware: Infrastructure](malware/nisseware-infrastructure/)
 
