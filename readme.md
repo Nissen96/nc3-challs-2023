@@ -20,7 +20,7 @@ Beskrivelser og source kan ses på alle challenges, writeups kommer løbende op 
 * [x] [Nisseware: Intro](malware/nisseware-intro/) (start her!)
 * [x] [Nisseware: Phishing](malware/nisseware-phishing/)
 * [x] [Nisseware: Loading](malware/nisseware-loading/)
-* [ ] [Nisseware: Exfiltration](malware/nisseware-exfiltration/)
+* [x] [Nisseware: Exfiltration](malware/nisseware-exfiltration/)
 * [ ] [Nisseware: Dropper](malware/nisseware-dropper/)
 * [x] [Nisseware: Encryption](malware/nisseware-encryption/)
 * [x] [Nisseware: Ransom](malware/nisseware-ransom/)
